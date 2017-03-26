@@ -1,11 +1,13 @@
 # FacebookSDK + Parse in Swift
 
+![preview](https://i.stack.imgur.com/jlen5.png)
+
 ---
 
 ### Stack Overflow Question 32302877
 
 ('FacebookSDK/FacebookSDK.h' file not found work with Parse)
-Xcode project & source code related to [Facebook + Parse + Utils](http://stackoverflow.com/a/32322076/218152) anwser.
+Xcode project & source code related to [Facebook + Parse + Utils](https://stackoverflow.com/questions/32302877/facebooksdk-facebooksdk-h-file-not-found-work-with-parse/32322076#32322076) answer.
 
 ---
 
@@ -17,6 +19,6 @@ Xcode project & source code related to [Facebook + Parse + Utils](http://stackov
 
 **References:**
 
-- SO-32302877 on [Stack Overflow](http://stackoverflow.com/questions/32302877/facebooksdk-facebooksdk-h-file-not-found-work-with-parse)
+- Question [32302877](https://stackoverflow.com/questions/32302877) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
