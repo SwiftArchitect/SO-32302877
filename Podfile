@@ -1,8 +1,8 @@
-platform :ios, '8.0'
+platform :ios, '11.0'
 
 target 'SO-32302877' do
 pod 'FBSDKCoreKit'
 pod 'Parse'
-pod 'ParseFacebookUtilsV4'
+pod 'Parse/FacebookUtils'
 end
 
